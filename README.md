@@ -10,3 +10,7 @@ https://medium.com/@srikesh1112/google-data-analytics-capstone-cyclistic-4b386d9
 Have a look at the presentation prepared using Canvas - 
 
 https://www.canva.com/design/DAFWUo_ujSM/s8NCpR0pnuwZyj016ynLKQ/view?utm_content=DAFWUo_ujSM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+The interactive tableau dashboard can be found in this link - 
+
+https://public.tableau.com/app/profile/srikesh.iyer/viz/cyclistic_16738849338640/DashboardCyclistic
